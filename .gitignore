@@ -1,0 +1,5 @@
+*/
+*.cmd
+*.sw[op]
+Kconfig*
+Makefile*
